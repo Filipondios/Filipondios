@@ -31,7 +31,7 @@
 
 - :telescope: I'm a computer engineer student from Spain (with and without the s)
 
-- 🦀: Actually learning C & Rust, like it should be. 
+- 🦀: Actually learning C & Rust, as it should be. 
 
 - :zap: In my free time, I try to make applicattions that make my life easier and then I share that with everyone (Java applicatiions ☕ for now).
 
