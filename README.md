@@ -55,12 +55,13 @@
  
  ## Stats
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=filipondios&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipondios&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=filipondios&theme=transparent)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipondios&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
-<div align="center">
-  <img src="wo3.png" width=500>
-</div>
