@@ -39,24 +39,6 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=java,bash,c,rust,html,js,css,git,vscode,idea,eclipse,neovim)](https://skillicons.dev)
-
-<!--
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Language" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://rustacean.net/assets/cuddlyferris.png" title="Rust" alt="Rust" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="Vscode" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" title="Eclipse IDE" alt="Eclipse" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/76801495?s=280&v=4" title="Crates" **alt="crates.io" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
--->
+[![My Skills](https://skillicons.dev/icons?i=java,bash,html,js,css,git,vscode,idea,eclipse,neovim)](https://skillicons.dev)
 ---
 
