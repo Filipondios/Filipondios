@@ -39,6 +39,10 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
+[![My Skills](https://skillicons.dev/icons?i=java,bash,c,rust,html,js,css,git,vscode,idea,eclipse,neovim)](https://skillicons.dev)
+
+<!--
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
@@ -53,6 +57,6 @@
   <img src="https://avatars.githubusercontent.com/u/76801495?s=280&v=4" title="Crates" **alt="crates.io" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
- 
+-->
 ---
 
