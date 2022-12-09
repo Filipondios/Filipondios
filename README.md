@@ -31,14 +31,14 @@
 
 - :telescope: I'm a computer engineer student from Spain (with and without the s)
 
-- 🦀: Actually learning C & Rust, as it should be. 
-
 - :zap: In my free time, I try to make applicattions that make my life easier and then I share that with everyone (Java applicatiions ☕ for now).
+
+- :boom: Currently working on: <a href="https://github.com/Filipondios/yt-thumbnail-getter">Youtube Thumbnail Getter</a> 
 
 - :mailbox:How to reach me: Just send me a dm at my discord: <b>ꜰɪʟɪᴘᴏɴᴅɪᴏꜱ#9621</b>
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=java,bash,html,js,css,git,vscode,idea,eclipse,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,bash,python,html,js,css,git,vscode,idea,neovim)](https://skillicons.dev)
 ---
 
