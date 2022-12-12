@@ -31,9 +31,9 @@
 
 - :telescope: I'm a computer engineer student from Spain (with and without the s)
 
-- :zap: In my free time, I try to make applicattions that make my life easier and then I share that with everyone (Java applicatiions ☕ for now).
+- :zap: In my free time, I try to make applicattions that make my life easier, some games and then I share that with everyone.
 
-- :boom: Currently working on: <a href="https://github.com/Filipondios/yt-thumbnail-getter">Youtube Thumbnail Getter</a> 
+- :boom: Currently working on: <a href="https://github.com/Filipondios/JavaChess">JavaChess ☕</a> 
 
 - :mailbox:How to reach me: Just send me a dm at my discord: <b>ꜰɪʟɪᴘᴏɴᴅɪᴏꜱ#9621</b>
 
