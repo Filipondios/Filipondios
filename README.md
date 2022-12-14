@@ -33,9 +33,11 @@
 
 - :zap: In my free time, I try to make applicattions that make my life easier, some games and then I share that with everyone.
 
-- :boom: Currently working on: <a href="https://github.com/Filipondios/JavaChess">JavaChess ☕</a> 
+- :boom: Currently working on: <b><a href="https://github.com/Filipondios/JavaChess">JavaChess ☕</a></b>
 
 - :mailbox:How to reach me: Just send me a dm at my discord: <b>ꜰɪʟɪᴘᴏɴᴅɪᴏꜱ#9621</b>
+
+- :earth_americas: More: You can also visit my <b><a href="https://dpv927.github.io/Filipondios/">Official Website</a><b>.
 
 ### :hammer_and_wrench: Languages and Tools :
 
