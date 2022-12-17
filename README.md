@@ -4,21 +4,18 @@
 
 <div id="badges" align="center">
   <a>
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-blue?color=738adb&label=Filipondios-9621&logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC5JVo0NNlbDJNQQNGScz6pA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&label=DarknessKot&color=d77982" alt="Youtube Badge"/>
   </a>
   <a href="https://github.com/dpv927">
-    <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge - Second Git acc"/>
-  </a>
-  <a href="https://twitter.com/FiliPondios">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&label=dvp927&color=df967f" alt="Github Badge - Second Git acc"/>
   </a>
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=filipondios&style=for-the-badge&color=red" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=filipondios&style=for-the-badge&color=007ec6" alt="Profile views"/>
 </div>
 
 <br>
