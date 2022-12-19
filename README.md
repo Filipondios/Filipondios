@@ -38,6 +38,6 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=java,bash,python,html,js,css,git,vscode,idea,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,bash,rust,python,html,css,js,git,vscode,idea,neovim)](https://skillicons.dev)
 ---
 
