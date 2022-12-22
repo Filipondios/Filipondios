@@ -34,8 +34,6 @@
 
 - :mailbox:How to reach me: Just send me a dm at my discord: <b>ꜰɪʟɪᴘᴏɴᴅɪᴏꜱ#9621</b>
 
-- :earth_americas: More: You can also visit my <b><a href="https://dpv927.github.io/Filipondios/">Official Website</a><b>.
-
 ### :hammer_and_wrench: Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=java,bash,rust,python,html,css,js,git,vscode,idea,neovim)](https://skillicons.dev)
