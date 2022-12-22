@@ -30,7 +30,7 @@
 
 - :zap: In my free time, I try to make applicattions that make my life easier, some games and then I share that with everyone.
 
-- :boom: Currently working on: <b><a href="https://github.com/Filipondios/JavaChess">JavaChess ☕</a></b>
+- :boom: Currently working on: <b><a href="https://github.com/Filipondios/The-Mathall-Project">Mathall</a> & <a href="https://github.com/Filipondios/JavaChess">JavaChess ☕</a></b>
 
 - :mailbox:How to reach me: Just send me a dm at my discord: <b>ꜰɪʟɪᴘᴏɴᴅɪᴏꜱ#9621</b>
 
