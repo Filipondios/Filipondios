@@ -6,9 +6,6 @@
   <a>
     <img src="https://img.shields.io/badge/Discord-blue?color=738adb&label=Filipondios-9621&logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC5JVo0NNlbDJNQQNGScz6pA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&label=DarknessKot&color=d77982" alt="Youtube Badge"/>
-  </a>
   <a href="https://github.com/dpv927">
     <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&label=dvp927&color=df967f" alt="Github Badge - Second Git acc"/>
   </a>
