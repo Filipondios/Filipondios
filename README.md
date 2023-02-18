@@ -23,13 +23,15 @@
 
 <img align=right src="wo1.png" width=180></img>
 
-- :telescope: I'm a computer engineer student from Spain (with and without the s)
+Here's a corrected version:
 
-- :zap: In my free time, I try to make applicattions that make my life easier, some games and then I share that with everyone.
+🔭 I'm a computer engineering student from Spain.
 
-- :boom: Currently working on: <b><a href="https://github.com/Filipondios/JavaChess">JavaChess ☕</a></b>
+⚡ In my free time, I try to make applications that make my life easier, some games, and then share them with everyone.
 
-- :mailbox:How to reach me: Just send me a dm at my discord: <b>ꜰɪʟɪᴘᴏɴᴅɪᴏꜱ#9621</b>
+💥 Currently working on: -
+
+📫 How to reach me: Just send me a DM on Discord: ꜰɪʟɪᴘᴏɴᴅɪᴏꜱ#9621.
 
 ### :hammer_and_wrench: Languages and Tools :
 
